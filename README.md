@@ -1,17 +1,8 @@
-# [MESS PORTAL](https://mess.dashroshan.com)
 
-[**A D3 Fest Hackathon submission**](https://d3fest.tech)
+### Members:
 
-### Team members:
+Rajdeep Patil (full Stack Developer)
 
-- Roshan Dash (Developer)
-- Subhajit Chatterjee (UI/UX, Documentation)
-
-### ▶️ [View it on YouTube](https://www.youtube.com/watch?v=QqCdYTh8L7o)
-
-## 🧱 PROBLEM STATEMENT
-
-**D3H05**
 
 Develop a solution for mess management. The solution should provide facilities to the mess admin and the students. For mess admins, they can manage coupons and other necessary details like menu, and pricing in the mess dashboard. Students can buy coupons from the mess dashboard only, deciding their desired meals for the week. The aim of the project will be to remove the hassle of buying coupons and provide a centralized platform for mess management.
 
@@ -98,5 +89,3 @@ Develop a solution for mess management. The solution should provide facilities t
     ![](/assets/scan_qr.jpg)
 
     The admin can press "Scan New" to check a new QR code.
-
-## ❤️ Team Zenith
