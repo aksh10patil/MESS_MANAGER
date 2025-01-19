@@ -43,8 +43,6 @@ Develop a solution for mess management. The solution should provide facilities t
 
     The students can sign in using their respective Google accounts using the sign in option. Login can be restricted to certain domains like iiit-bh.ac.in
 
-    ![](/assets/google_signin.jpg)
-
   - **Buying coupons for next week**
 
     The student can apply for desired meals by selecting among the checkboxes. The final amount is displayed at the bottom for payment.
